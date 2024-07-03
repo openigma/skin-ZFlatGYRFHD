@@ -2410,9 +2410,9 @@
     <widget name="key_green" position="335,937" size="230,38" zPosition="1" font="Bold; 30" halign="center" backgroundColor="button_in" transparent="1" foregroundColor="white" />
     <widget name="key_yellow" position="578,937" size="230,38" zPosition="1" font="Bold; 30" halign="center" backgroundColor="button_in" transparent="1" foregroundColor="white" />
     <widget name="key_blue" position="821,937" size="230,38" zPosition="1" font="Bold; 30" halign="center" backgroundColor="button_in" transparent="1" foregroundColor="white" />
-    <eLabel text="skin ZFlatGYRFHD by Sharp987" position="1063,570" size="510,90" font="Modern; 38" backgroundColor="grey_bar2" transparent="1" valign="top" halign="center" foregroundColor="green_w" />
+    <eLabel text="skin ZFlatGYRFHD" position="1063,570" size="510,90" font="Modern; 38" backgroundColor="grey_bar2" transparent="1" valign="top" halign="center" foregroundColor="green_w" />
     <ePixmap position="1175,643" size="286,284" zPosition="3" pixmap="ZFlatGYRFHD/openpli_logo2.png" alphatest="blend" transparent="1" />
-    <widget name="AboutScrollLabel" font="Modern; 30" position="38,142" size="1013,766" zPosition="0" halign="left" transparent="1" foregroundColor="white" backgroundColor="grey_bar2" scrollbarWidth="6" scrollbarSliderBorderWidth="1" scrollbarKeepGapColor="1" scrollbarGap="2" scrollbarSliderForegroundColor="ScrollBarFG" scrollbarSliderBorderColor="ScrollBarFG" />
+    <widget name="AboutScrollLabel" font="Modern; 30" position="38,142" size="1013,766" zPosition="0" halign="left" transparent="1" foregroundColor="white" backgroundColor="grey_bar2" scrollbarWidth="6" scrollbarSliderBorderWidth="1" scrollbarKeepGapColor="1" scrollbarGap="2" scrollbarSliderForegroundColor="ScrollBarFG" scrollbarSliderBorderColor="ScrollBarFG" split="1" dividechar=":" colposition="0" />
   </screen>
   <screen name="MemoryInfo" position="0,0" size="1920,1080" title="MemoryInfo" backgroundColor="transparent" flags="wfNoBorder">
     <ePixmap pixmap="ZFlatGYRFHD/large_screen/ls_bg_21.png" position="30,74" size="1551,932" alphatest="off" zPosition="-1" />
@@ -2467,7 +2467,7 @@
     <widget name="key_green" position="335,937" size="230,38" zPosition="1" font="Bold; 30" halign="center" backgroundColor="button_in" transparent="1" foregroundColor="white" />
     <widget name="key_yellow" position="578,937" size="230,38" zPosition="1" font="Bold; 30" halign="center" backgroundColor="button_in" transparent="1" foregroundColor="white" />
     <widget name="key_blue" position="821,937" size="230,38" zPosition="1" font="Bold; 30" halign="center" backgroundColor="button_in" transparent="1" foregroundColor="white" />
-    <eLabel text="skin ZFlatGYRFHD by Sharp987" position="1063,570" size="510,90" font="Modern; 38" backgroundColor="grey_bar2" transparent="1" valign="top" halign="center" foregroundColor="green_w" />
+    <eLabel text="skin ZFlatGYRFHD" position="1063,570" size="510,90" font="Modern; 38" backgroundColor="grey_bar2" transparent="1" valign="top" halign="center" foregroundColor="green_w" />
     <ePixmap position="1175,643" size="286,284" zPosition="3" pixmap="ZFlatGYRFHD/openpli_logo2.png" alphatest="blend" transparent="1" />
     <widget source="TranslatorName" render="Label" position="38,142" size="1013,165" font="Modern; 28" halign="left" backgroundColor="grey_bar2" transparent="1" />
     <widget source="TranslationInfo" render="Label" position="38,350" size="1013,558" font="Modern; 28" halign="left" backgroundColor="grey_bar2" transparent="1" />
@@ -2490,7 +2490,7 @@
     <ePixmap pixmap="ZFlatGYRFHD/chnsel/button_yellow_230.png" position="578,927" size="237,69" alphatest="blend" />
     <ePixmap pixmap="ZFlatGYRFHD/chnsel/button_blue_230.png" position="821,927" size="237,69" alphatest="blend" />
     <widget name="key_red" position="92,937" size="230,38" zPosition="1" font="Bold; 30" halign="center" backgroundColor="button_in" transparent="1" foregroundColor="white" />
-    <eLabel text="skin ZFlatGYRFHD by Sharp987" position="1063,570" size="510,90" font="Modern; 38" backgroundColor="grey_bar2" transparent="1" valign="top" halign="center" foregroundColor="green_w" />
+    <eLabel text="skin ZFlatGYRFHD" position="1063,570" size="510,90" font="Modern; 38" backgroundColor="grey_bar2" transparent="1" valign="top" halign="center" foregroundColor="green_w" />
     <ePixmap position="1175,643" size="286,284" zPosition="3" pixmap="ZFlatGYRFHD/openpli_logo2.png" alphatest="blend" transparent="1" />
     <ePixmap pixmap="ZFlatGYRFHD/skin_default/buttons/key_left2.png" position="1261,937" size="53,45" alphatest="blend" />
     <ePixmap pixmap="ZFlatGYRFHD/skin_default/buttons/key_right2.png" position="1324,937" size="53,45" alphatest="blend" />
@@ -2515,7 +2515,7 @@
     <ePixmap pixmap="ZFlatGYRFHD/chnsel/button_blue_230.png" position="821,927" size="237,69" alphatest="blend" />
     <widget name="key_red" position="92,937" size="230,38" zPosition="1" font="Bold; 30" halign="center" backgroundColor="button_in" transparent="1" foregroundColor="white" />
     <widget name="key_green" position="335,937" size="230,38" zPosition="1" font="Bold; 30" halign="center" backgroundColor="button_in" transparent="1" foregroundColor="white" />
-    <eLabel text="skin ZFlatGYRFHD by Sharp987" position="1063,570" size="510,90" font="Modern; 38" backgroundColor="grey_bar2" transparent="1" valign="top" halign="center" foregroundColor="green_w" />
+    <eLabel text="skin ZFlatGYRFHD" position="1063,570" size="510,90" font="Modern; 38" backgroundColor="grey_bar2" transparent="1" valign="top" halign="center" foregroundColor="green_w" />
     <ePixmap position="1175,643" size="286,284" zPosition="3" pixmap="ZFlatGYRFHD/openpli_logo2.png" alphatest="blend" transparent="1" />
     <widget name="AboutScrollLabel" font="Regular; 28" position="38,142" size="1013,754" zPosition="0" halign="left" transparent="1" foregroundColor="white" backgroundColor="grey_bar2" scrollbarWidth="6" scrollbarSliderBorderWidth="1" scrollbarKeepGapColor="1" scrollbarGap="2" scrollbarSliderForegroundColor="ScrollBarFG" scrollbarSliderBorderColor="ScrollBarFG" />
     <ePixmap pixmap="ZFlatGYRFHD/skin_default/buttons/key_left2.png" position="1261,937" size="53,45" alphatest="blend" />
