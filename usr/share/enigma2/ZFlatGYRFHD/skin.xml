@@ -222,6 +222,11 @@
     <parameter name="HelpMenuListHlp" value="0,2,900,42" />
     <parameter name="HelpMenuListExtHlp0" value="0,2,900,39" />
     <parameter name="HelpMenuListExtHlp1" value="0,42,900,30" />
+    <parameter name="FcFileListIcon" value="10,4,30,30" />
+    <parameter name="FcFileListMultiIcon" value="45,4,30,30" />
+    <parameter name="FcFileListMultiLock" value="2,0,30,30" />
+    <parameter name="FcFileListMultiName" value="90,2,1000,32" />
+    <parameter name="FcFileListName" value="68,2,1000,34" />
     <parameter name="FileListName" value="45,4,1000,48" />
     <parameter name="FileListIcon" value="7,4,32,48" />
     <parameter name="PlayListName" value="45,-2,1000,48" />
